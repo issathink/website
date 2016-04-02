@@ -1109,7 +1109,7 @@ ul.archive-grid li a:hover{
   border: none;
   padding:1em 0.8em;
   font-size: 1em;
-  color: #e2e2e2;
+  color: #000;
   margin: 0 0 0 2%;
   float:left;  
 }
@@ -1157,7 +1157,7 @@ ul.archive-grid li a:hover{
 	font-size:1.8em;
 }
 .contact p{
-  color: #a3a3a3;
+  color: #000;
   font-size: 1.1em;
   line-height: 1.7em;
   font-weight: 300;
